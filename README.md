@@ -1,1 +1,2 @@
-    ◼️ Html, CSS, JS ◼️        
+    ◼️ Html, CSS, JS ◼️    
+    🛠 Beginner 
