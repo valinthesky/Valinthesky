@@ -1,2 +1,2 @@
     ◼️ Html, CSS, JS ◼️    
-    🛠 Beginner 
+    Actually trying things with Python3
