@@ -1,5 +1,5 @@
     ◼️ Html, CSS, Python ◼️    
 Actually learning JS and MySQL
 
-🏔️ - Focus on the steam randomizer project 
+🏔️ - Focused on the steam randomizer project 
 
